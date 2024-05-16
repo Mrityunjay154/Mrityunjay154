@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://github.com/Mrityunjay154/Mrityunjay154/blob/main/founder-removebg-preview.png"/>
+  <img height="300" src="https://github.com/Mrityunjay154/Mrityunjay154/blob/main/founder-removebg-preview.png"/>
 </div>
 
 ###
