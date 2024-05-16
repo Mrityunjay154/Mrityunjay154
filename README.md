@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Mrityunjay Gupta a passionate and driven second-year undergraduate at Netaji Subhas University of Technology, Delhi.<br><br>- 🔭 I’m persuing BTech (Mechanical Engg)  <br>- 📚 I'm currently learning React.js and MongoDB<br>- ⚡ In my free time I should to practice C++ and Data Structures</p>
+<p align="left">I'm Mrityunjay Gupta a passionate and driven second-year undergraduate at Netaji Subhas University of Technology, Delhi.<br><br>- 🔭 I’m pursuing BTech (Mechanical Engg)  <br>- 📚 I'm currently learning React.js and MongoDB<br>- ⚡ In my free time I should to practice C++ and Data Structures</p>
 
 ###
 
