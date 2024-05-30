@@ -1,6 +1,6 @@
 <div align="center">
   <img height="400" src="https://github.com/Mrityunjay154/Mrityunjay154/blob/main/founder-removebg-preview.png"/>
-  <p font-size="300"><b>Mrityunjay Kumar Gupta</b></p>
+  <p><b>Mrityunjay Kumar Gupta</b></p>
 </div>
 
 ###
